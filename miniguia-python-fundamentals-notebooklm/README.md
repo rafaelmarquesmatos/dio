@@ -1,6 +1,6 @@
 # 🐍 Python Programming Fundamentals: Documentation and Video Guide
 
-> **Caderno Temático no NotebookLM** — Projeto DIO *Entendendo o Desafio* | **20 fontes curadas** (docs oficiais + video guides + Deep Research: Carreira & Agentic AI 2026) | Curadoria + Engenharia de Prompts + Miniguia
+> **Caderno Temático no NotebookLM** | **20 fontes curadas** (docs oficiais + video guides + Deep Research: Carreira & Agentic AI 2026) | Curadoria + Engenharia de Prompts + Miniguia
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=flat&logo=google&logoColor=white)](https://notebooklm.google.com/)
@@ -454,8 +454,6 @@ miniguia-python-fundamentals-notebooklm/
 
 ### 👤 Autor
 
-**Rafael Marques Matos** — Projeto DIO **“Entendendo o Desafio”**.
+**Rafael Marques Matos**
 
 > 💡 *“Documentação é a fonte da verdade, vídeo é a intuição, relatórios de carreira são a bússola e agentes são a fronteira. Juntos no NotebookLM com citação, viram método: não é sobre hype — é sobre saber o que estudar primeiro.”*
-
-**Como entregar na DIO:** copie `https://github.com/rafaelmarquesmatos/dio` + caminho `/miniguia-python-fundamentals-notebooklm` e cole na entrega com descrição: *“Caderno Temático NotebookLM: Python Programming Fundamentals: Documentation and Video Guide — 20 fontes curadas (docs oficiais + video + Deep Research Agentic 2026/Carreira), com print comprobatório, 7 perguntas estratégicas com cicatrizes e miniguia com 5 módulos, glossário expandido e 10 prompts reutilizáveis.”*

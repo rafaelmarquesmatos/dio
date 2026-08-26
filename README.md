@@ -1,6 +1,6 @@
-# dio — Repositório de Projetos DIO
+# dio
 
-> Portfólio de desafios práticos da [DIO](https://www.dio.me/) por **Rafael Marques Matos** — com foco em documentação, curadoria e aprendizagem ativa com IA (NotebookLM).
+> Portfólio por **Rafael Marques Matos** — com foco em documentação, curadoria e aprendizagem ativa com IA (NotebookLM).
 
 ## 📚 Projetos
 
@@ -24,13 +24,9 @@ cat README.md
 # Ver prompts: cat docs/prompts-reutilizaveis.md
 ```
 
-Cada pasta é um projeto independente com seu próprio `README.md` pronto para entrega na plataforma DIO.
+Cada pasta é um projeto independente com seu próprio `README.md`.
 
 ## 🔗 Links
 
 - GitHub: https://github.com/rafaelmarquesmatos/dio
 - DIO: https://www.dio.me/
-
----
-
-> 💡 Para entregar na DIO, copie `https://github.com/rafaelmarquesmatos/dio` + caminho `/miniguia-python-fundamentals-notebooklm` e cole no campo de entrega com a descrição do destaque acima.
